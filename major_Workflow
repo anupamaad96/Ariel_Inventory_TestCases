@@ -1,0 +1,32 @@
+# Ariel_Inventory_TestCases
+
+Different Testing Scenarios for Ariel inventory management 
+
+The different areas to cover include:
+----Major WorkFlow----
+
+1.Container Receving
+2.Stock Move
+3.Picking 
+4.Initial Inventory 
+5.Inventory Adjustment 
+6.Counting 
+7.Cancel
+8.Shipping
+9.Undo Cancel
+10.Undo Shipping
+11.Deletion of picking batch 
+12.Deletion of ordersplits in picking batch 
+13.Deletion of Receipts- Container Receiving 
+14.Deletion of Items in Receipts of Container Receving 
+15.Triggerring Stock Move from Picking
+16.Quick Stock Move
+17.Partial Stock Move
+18.Adjusting Open Box Count while picking 
+19.Putaway
+20.Verifying for all these cases in- Inventory, Item Quantity field, Product Moves 
+21.Sync Settings - Product Adjustment, Initial inventory
+22.Print/PDF download Settings
+23.iPad- Putaway, Stock move, Picking , counting 
+24.User Accessibility
+25.UI / UX  
